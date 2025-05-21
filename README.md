@@ -1,5 +1,3 @@
-# open-automation-hub
-
 A curated list of awesome open-source tools for workflow automation, integration, building automation platforms, orchestrating AI agents, and more.
 
 ## What is this?
